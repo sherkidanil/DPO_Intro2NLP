@@ -1,8 +1,8 @@
-f1_average_strict: 0.426630
-f1_aspect_strict: 0.266958
-f1_object_strict: 0.272727
-f1_predicate_strict: 0.844334
-f1_average: 0.455444
-f1_aspect: 0.312910
-f1_object: 0.301484
-f1_predicate: 0.861851
+f1_average_strict: 0.417483
+f1_aspect_strict: 0.292683
+f1_object_strict: 0.248555
+f1_predicate_strict: 0.842371
+f1_average: 0.435542
+f1_aspect: 0.312195
+f1_object: 0.268786
+f1_predicate: 0.855065
